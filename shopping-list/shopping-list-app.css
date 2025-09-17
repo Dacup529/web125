@@ -1,0 +1,12 @@
+.priority {
+    color: red;
+    font-weight: bold;
+}
+.strikeout {
+    text-decoration: line-through;
+    color: gray;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
